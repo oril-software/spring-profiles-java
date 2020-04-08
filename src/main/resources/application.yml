@@ -1,0 +1,7 @@
+#Available profiles: dev, prod
+
+spring:
+  profiles:
+    active: default   #Change the name of active profile to activate another profile
+
+message: Default mode is on
